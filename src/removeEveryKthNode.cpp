@@ -18,6 +18,10 @@ struct node {
 	struct node *next;
 };
 
-struct node * removeEveryKthNode(struct node *head, int K) {
+struct node * removeEveryKthNode(struct node *head, int K)
+{
 	return NULL;
+	
 }
+
+
